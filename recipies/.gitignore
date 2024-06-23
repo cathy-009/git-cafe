@@ -1,0 +1,4 @@
+.DS_Store
+nod_modules/
+_pycache_/
+*.pyc
